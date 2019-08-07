@@ -1,0 +1,7 @@
+Gaurang Bham
+SE 211
+README For Abstract Factory Assignment
+
+My Abstract Factory is designed to ask the user if they would like a standard or advanced computer and then read them their information. For the sake of time the only specifications are being either advanced or standard as well as different costs. 
+
+The Make file must be pulled out of the AbstractFactory folder in order to work properly and must call “java AbstractFactory.ComputerStore” to run.

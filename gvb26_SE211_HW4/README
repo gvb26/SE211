@@ -1,0 +1,7 @@
+Gaurang Bham
+SE 211
+README For Assignment 4
+
+My weather alert program is used to add various service notifications to inform the students of class cancellations in the case of an emergency. The system is designed to add new means of communication in the future. The driver file adds the current forms of communications and sends out an inclement weather report to those means of communication. 
+
+You must call “java weatherAlert.ServiceNotifier” to run.

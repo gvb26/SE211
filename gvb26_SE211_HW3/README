@@ -1,0 +1,7 @@
+Gaurang Bham
+SE 211
+README For Assignment 3
+
+My AlphaMobile application gives users the option as to which factory they wish for the phone to be assembled in. They are then prompted as to which model they would like manufactured. The price and model are then display for the user. If they type in an invalid model or a model that is not manufactured in that factory they will receive an error. 
+
+You must call “java AlphaMobile.PhoneStore” to run.
